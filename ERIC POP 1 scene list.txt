@@ -1,0 +1,70 @@
+Atari E.R.I.C. POP #1 lasedisc scene list
+
+Frames	Description
+0-1444		Color bars with tone
+1445-1800	Countdown
+1801-2171 	“If you have more time, please come back…”
+2191-3090	“Atari brings the computer age home” commercial.
+3104-3233	Text: THIS HAS BEEN A COMPUTER/VIDEODISC PRESENTATION
+3234-3555	Family gathered around computer, grandma seems addled. You can hear the director call “Action”?
+3562-4992	Introduction to Atari home computer. Ends with “press any key”
+4993-5102	Go ahead, press any key.
+5103-5973	Faucet graphics. Ends with “press M key”
+5974-6056	Go ahead, press the M key.
+6057-6986	music demo. Ends with “press START key”
+6987-7058	Go ahead, press START
+7059-7257	Oops, you pressed the wrong key. Press START. Try again,
+7258-8339	Astronomy demo. Do you use a computer regularly? Press Y or N.
+8340-11754	“Thank you.” Overview of applications. Ends with main menu
+		1- Home study
+		2- Home entertainment
+		3- Home management
+		4- Computer programming
+		5- Computer equipment
+11755-11897	Still thinking? Press the number next to your choice
+11898-12022 “Oops, you pressed the wrong key. Try again.”
+12036-15952	*Equipment - Atari 400 and 800. End: press E to see equipment again, do nothing to continue to peripherals
+15968-18724	Peripherals. End: press P to see peripherals again, do nothing to select another category
+18725-18922	Make another menu choice.
+18923-19011	Menu with options 1-5
+19012-19117 “Oops, you pressed the wrong key. Try again.”
+19118-19127	Alternate menu that adds: 6- Conclusion item
+19140-21387	*Home management. Ends with W for Word Processor, F for Home Filing Manager
+21388-21593	Try again, W or F
+21594-23247	Atari word processor. Ends with Press Start to see find and replace
+23248-23339	Find and replace
+23340-23476 Press START! Or maybe there’s something else you’d like to see
+23477-23636 Try the other home management program? Press W or F
+23637-23838 Try again, W or F
+23854-25424	Home Filing Manager. Ends with Press START
+25425-26649	HFM demo. Ends with Make another menu choice.
+26650-26729 Menu with options 1-5
+26730-26875	 “Oops, you pressed the wrong key. Try again.”
+26876-26885	Alternate menu that adds: 6- Conclusion item
+26896-28953	#Home Study ends with A for My First Alphabet, S for Scram
+28954-29223	Try again, A or S
+29239-30355 	Scram. Ends with Press M to see a meltdown
+30356-30970	Scram meltdown. Try the other home study program? Press A or S
+30971-31235	Try again, A or S
+31250-32240	 My First Alphabet demo. Ends with Press D.
+32241-32940	My First Alphabet demo. Ends with Make another menu choice.
+32941-33019	Menu with options 1-5
+33020-33134	“Oops, you pressed the wrong key. Try again.”
+33135-33144	Alternate menu that adds: 6- Conclusion item
+33155-34640	#Home Entertainment. Ends with Press S.
+34641-34714	Reminder to Press S.
+34715-35721	Star Raiders demo. Ends with Press H.
+35722-37663 Star Raiders demo. Ends with Make another menu choice.
+37664-37742 Menu with options 1-5
+37743-37864	“Oops, you pressed the wrong key. Try again.”
+37865-37874	Alternate menu that adds: 6- Conclusion item
+37884-40039	#Computer Programming. Ends with press START
+40040-41866	Computer programming. Ends with Make another menu choice.
+41867-41945	Menu with options 1-5
+41946-42067	“Oops, you pressed the wrong key. Try again.”
+42068-42077	Alternate menu that adds: 6- Conclusion item
+42186-42804	#Conclusions. Conclusion for viewers who “don’t use a computer regularly”
+42836-43755	Alternate conclusion for viewers who “don’t use a computer regularly” perhaps for viewers who explored several categories.
+43779-44894	Conclusion for viewers who “regularly use a computer”
+44934-44943	Color bars
+
